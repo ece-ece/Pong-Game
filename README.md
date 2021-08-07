@@ -3,7 +3,7 @@ The game was developed with unity.
 Pong is one of the first video games and similar to a simple game of tennis.
 
 ### Game Rule
--Avoid the balls from the opposing team.
+-Avoid the balls from the opposing team.<br>
 -If opposite team have 10 point the game ends and you are the winner!
 
 ## Picture
